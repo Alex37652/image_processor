@@ -1,0 +1,3 @@
+/Users/alex_fly/Desktop/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/Users/alex_fly/Desktop/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex_fly/Desktop/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
